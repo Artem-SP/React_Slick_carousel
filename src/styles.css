@@ -1,0 +1,7 @@
+.slide {
+  display: flex;
+  border: black;
+}
+.conteiner {
+  width: 70%;
+}
